@@ -1,4 +1,5 @@
-from calc_coeff import *
+from calc_coeff import TurObjArea, OneDayTouristRouteWithoutTimeLim, TurObjWithoutTimeLim, \
+    OneDayTouristRouteWithTimeLim, TurObjWithTimeLim, TurObjAutonomous, calculate_rccoopt
 
 
 # Количество дней в рассматриваемой единице времени
